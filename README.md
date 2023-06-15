@@ -19,6 +19,7 @@
 
 
 ## OUTPUT
+![Screenshot (77)](https://github.com/SDJeeva/EX10_Web-Design/assets/127816889/47012add-5ebf-409e-81e1-eea64dfbde3b)
 
 
 ## RESULT
